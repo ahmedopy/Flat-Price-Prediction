@@ -2,13 +2,13 @@
 
 ## Multi-Class Classification of Real Estate Prices
 
----
+
 
 ## 📌 Overview
 
 This project predicts **property price categories (Low/Medium/High)** based on residential flat features. A comparative study of three machine learning algorithms — Logistic Regression, K-Nearest Neighbors, and Neural Networks — is performed on a dataset of 1200 properties.
 
----
+
 
 ## 📊 Dataset
 
